@@ -22,10 +22,10 @@ and the following Julia packages (versions to the right):
 - StatsBase                     0.21.0
 
 Since `Julia` version `0.6.2` is no longer maintained, we also provide a publicly available AWS image configured to run our numerical experiments on AWS GPU instances. This image can be accessed by searching for the following AWS Image ID in the region `us-east-2a`:
-- ID: ami-05aa8ea8a7f911839
+- ID: `ami-05aa8ea8a7f911839`
 
 We note that Example 2 (poorly conditioned point estimation), and Example 2 only, was run in `Julia` version `0.7.0`. Therefore, we have provided a second AWS Image that can be used to run this example:
-- ID: ami-0e951811ae6a3a747
+- ID: `ami-0e951811ae6a3a747`
 
 
 ## Installation
@@ -35,7 +35,7 @@ Install the appropriate versions of Julia/Knet/Flux using the following instruct
 git clone git://github.com/JuliaLang/julia.git
 cd julia
 git checkout v0.6.2
-make -j 8
+make -j Nproc
 ```
 
 The repository also includes several `R` scripts. All of these scripts were run on a private cluster, and therefore cannot be run on the AWS Images that we have provided without installing the required packages from [CRAN](https://cran.r-project.org/).
