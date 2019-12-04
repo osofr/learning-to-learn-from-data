@@ -1,0 +1,14 @@
+% latex table generated in R 3.5.0 by xtable 1.8-3 package
+% Sat Oct 27 14:59:25 2018
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllll}
+   & \multicolumn{2}{c}{Cross-Entropy} & \multicolumn{2}{c}{AUC} \\ & SP & Existing & SP & Existing \\ 
+   \hline
+Linear, No Intercept (iv) & 0.597 & 0.600 & 0.760 & 0.754 \\ 
+  Linear, Intercept +/- 1 (v) & 0.578 & 0.577 & 0.754 & 0.752 \\ 
+  Linear, Intercept +/- 2 (vi) & 0.587 & 0.580 & 0.757 & 0.750 \\ 
+  GLM &  & 0.920 &  & 0.749 \\ 
+  Elastic Net &  & 0.560 &  & 0.782 \\ 
+  \end{tabular}
+\end{table}

@@ -1,0 +1,14 @@
+% latex table generated in R 3.5.0 by xtable 1.8-3 package
+% Sat Oct 27 14:59:26 2018
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllll}
+   & \multicolumn{2}{c}{Cross-Entropy} & \multicolumn{2}{c}{AUC} \\ & SP & Existing & SP & Existing \\ 
+   \hline
+Linear, Slopes +/- 0.5 (vii) & 0.637 (0.570,0.705) & 0.644 (0.567,0.721) & 0.681 (0.544,0.819) & 0.686 (0.551,0.821) \\ 
+  Linear, Slopes +/- 1 (viii) & 0.637 (0.553,0.722) & 0.651 (0.550,0.752) & 0.686 (0.550,0.822) & 0.688 (0.553,0.822) \\ 
+  Linear, Slopes +/- 2 (ix) & 0.648 (0.546,0.751) & 0.660 (0.553,0.766) & 0.690 (0.555,0.826) & 0.684 (0.550,0.818) \\ 
+  GLM &  & 0.661 (0.551,0.771) &  & 0.693 (0.560,0.827) \\ 
+  Elastic Net &  & 0.669 (0.583,0.756) &  & 0.633 (0.446,0.821) \\ 
+  \end{tabular}
+\end{table}
