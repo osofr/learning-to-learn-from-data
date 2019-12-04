@@ -1,0 +1,6 @@
+(:α, 0.1f0, :TᵏlBayes, 0.31586173f0, :Tᵏlmax, 0.96585935f0, :Tᵏlmax2, 0.9507977f0, :maxγ, Float32[3.0, -1.72727])
+(:α, 0.1f0, :EMlBayes, 1.1513108f0, :EMlmax, 5.8692794f0, :EMlmax2, 5.884477f0, :maxγ, Float32[-3.0, 3.0])
+(:α, 0.1f0, :KMlBayes, 1.2841986f0, :KMlmax, 4.98276f0, :KMlmax2, 4.9690795f0, :maxγ, Float32[3.0, -3.0])
+(:α, 0.1f0, :TᵏclassBayes, 0.10310496f0, :Tᵏclassmax, 0.17994997f0, :Tᵏclassmax2, 0.17858998f0, :maxγ, Float32[-3.0, -1.60606])
+(:α, 0.1f0, :EMclassBayes, 0.32020175f0, :EMclassmax, 0.3798299f0, :EMclassmax2, 0.37689996f0, :maxγ, Float32[-2.81818, -2.81818])
+(:α, 0.1f0, :KMclassBayes, 0.279301f0, :KMclassmax, 0.35217994f0, :KMclassmax2, 0.34753993f0, :maxγ, Float32[3.0, 2.93939])

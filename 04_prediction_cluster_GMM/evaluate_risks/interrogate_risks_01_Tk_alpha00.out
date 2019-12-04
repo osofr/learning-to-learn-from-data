@@ -1,0 +1,7 @@
+(:α, 0.0f0, :TᵏlBayes, 0.2253685f0, :Tᵏlmax, 1.3137865f0, :Tᵏlmax2, 1.3105415f0, :maxγ, Float32[3.0, -1.78788])
+(:α, 0.0f0, :EMlBayes, 1.6261615f0, :EMlmax, 9.573996f0, :EMlmax2, 9.568847f0, :maxγ, Float32[-3.0, 3.0])
+(:α, 0.0f0, :KMlBayes, 2.0461786f0, :KMlmax, 12.102838f0, :KMlmax2, 12.052439f0, :maxγ, Float32[-3.0, 3.0])
+(:α, 0.0f0, :TᵏclassBayes, 0.04825178f0, :Tᵏclassmax, 0.08246999f0, :Tᵏclassmax2, 0.08000998f0, :maxγ, Float32[-1.66667, -1.54545])
+(:α, 0.0f0, :EMclassBayes, 0.38577923f0, :EMclassmax, 0.3918699f0, :EMclassmax2, 0.3855299f0, :maxγ, Float32[-1.30303, -1.42424])
+(:α, 0.0f0, :KMclassBayes, 0.3342506f0, :KMclassmax, 0.33879995f0, :KMclassmax2, 0.33340997f0, :maxγ, Float32[2.93939, -1.12121])
+15516.283842 seconds (3.53 M allocations: 185.626 MiB, 0.00% gc time)
