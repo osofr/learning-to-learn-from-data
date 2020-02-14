@@ -67,4 +67,4 @@ This folder contains instructions and code for running the experiments for confi
 ## Citation
 If you use our code, please consider citing the following:
 
-Luedtke A, Carone M, Simon N, Sofrygin, O. (2020). Learning to learn from data: using deep adversarial learning to construct optimal procedures. <i>Journal</i>.
+Luedtke A, Carone M, Simon N, Sofrygin, O. (2020). Learning to learn from data: using deep adversarial learning to construct optimal procedures. <i>Science Advances</i>.
