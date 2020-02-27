@@ -1,6 +1,6 @@
 # learning-to-learn-from-data
 
-Code for paper "Learning to learn from data: using deep adversarial learning to construct optimal statistical procedures" by A. Luedtke, M. Carone, N. Simon, and O. Sofrygin. [[link](https://websitelinkhere)]
+Code for paper "Learning to learn from data: using deep adversarial learning to construct optimal statistical procedures" by A. Luedtke, M. Carone, N. Simon, and O. Sofrygin. [[link](https://advances.sciencemag.org/content/6/9/eaaw2140)]
 
 ## Environment
 All numerical experiments were performed on AWS GPU instances (`p2.xlarge` and `p3.2xlarge`), using
